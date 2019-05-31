@@ -1,1 +1,3 @@
-console.console.log('test');
+module.exports = (name) => {
+  return `hello ${name}`;
+};
