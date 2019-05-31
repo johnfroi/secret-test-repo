@@ -1,0 +1,19 @@
+{
+  "name": "secret-test-0945427",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfroi/secret-test-repo.git"
+  },
+  "author": "justimagine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfroi/secret-test-repo/issues"
+  },
+  "homepage": "https://github.com/johnfroi/secret-test-repo#readme"
+}
